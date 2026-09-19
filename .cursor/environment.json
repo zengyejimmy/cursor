@@ -1,0 +1,4 @@
+{
+  "name": "C/C++ development",
+  "install": "bash .cursor/install.sh"
+}
